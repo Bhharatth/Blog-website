@@ -51,7 +51,7 @@ const Write = () => {
           <label htmlFor="design">design</label></div>
 
           <div className="cat"><input type="radio" name="cat" value="food" id="food" />
-          <label htmlFor="food">food</label></div>
+          <label htmlFor="food">foods</label></div>
         </div>
       </div>
     </div>
